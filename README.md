@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jean Campolino
 - 🔭 Graduando em ADS
-- 🌱 Estudando JavaScript (Node.js)
+- 🌱 Estudando Java, JavaScript (Node.js)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JeanCampolino&show_icons=true&theme=tokyonight"
