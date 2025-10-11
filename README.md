@@ -1,4 +1,6 @@
 ## Olá! Eu sou o Jean Campolino
+<img width="3000" height="100" alt="image" src="https://github.com/user-attachments/assets/3c1cf5e1-d7cb-4c67-a2a2-8c4a07dac4bc" />
+
 - 🔭 Graduando em ADS
 - 🌱 Estudando Java, JavaScript (Node.js)
 <picture>
