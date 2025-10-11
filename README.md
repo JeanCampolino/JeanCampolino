@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jean Campolino
-<img width="3000" height="100" alt="image" src="https://github.com/user-attachments/assets/3c1cf5e1-d7cb-4c67-a2a2-8c4a07dac4bc" />
-
 - 🔭 Graduando em ADS
 - 🌱 Estudando Java, JavaScript (Node.js)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JeanCampolino&show_icons=true&theme=tokyonight"
