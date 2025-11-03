@@ -6,7 +6,7 @@
 <p align="left" width=25> 
  Olá! Eu sou o Jean Campolino<br>
  🔭 Graduando em ADS<br>
- 🌱 Estudando Java, JavaScript (Node.js)</strong>
+ 🌱Backend Java & SQL</strong>
 </p>
                                                                                                             
 <picture>
